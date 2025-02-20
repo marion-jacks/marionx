@@ -7,7 +7,7 @@
 <up A simple WhatsApp User Bot Coded By JACKSMOHAA🔥</u>
 </p>
 <p align="center">
-<img src="https://files.catbox.moe/yedfbr.jpg"/>       
+<img src="https://files.catbox.moe/6i7iss.jpg"/>       
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+𝐌𝐀𝐑𝐈𝐎𝐍_𝐗+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+𝐉𝐀𝐂𝐊𝐒𝐌𝐎𝐇𝐀𝐀🥶+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
@@ -30,11 +30,11 @@
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
 
-  <a href="https://caseywebzpair-a1c7aca7cb02.herokuapp.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
+  <a href="https://marionx.onrender.com/"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>  
 
 
 <p align="left">
-<a href="https://nikka-pair-3-g4sk.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
+<a href="https://marionx.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
 <p/>  
 
  ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
