@@ -1,0 +1,143 @@
+{
+  "name": "𝐌𝐀𝐑𝐈𝐎𝐍 𝐗",
+  "version": "1.2.5",
+  "description": "𝐌𝐀𝐑𝐈𝐎𝐍 𝐗, the best WhatsApp Bot",
+  "logo": "g",
+  "keywords": ["whatsapp", "bot", "md"],
+  "repository": "https://github.com/marion-jacks/marionx",
+  "stack": "container",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Enter your 𝐌𝐀𝐑𝐈𝐎𝐍 𝐗 session id here",
+      "value": "",
+      "required": false
+    },
+    "BOT_NAME": {
+      "description": "Enter your bot name here",
+      "value": "𝐌𝐀𝐑𝐈𝐎𝐍 𝐗",
+      "required": false
+    },
+    "OWNER_NUMBER": {
+      "description": "Enter your number here",
+      "value": "254796087764",
+      "required": true
+    },
+    "OWNER_NAME": {
+      "description": "Enter your name here",
+      "value": "𝐌𝐀𝐑𝐈𝐎𝐍",
+      "required": true
+    },
+    "STICKER_PACK_NAME": {
+      "description": "Sticker pack name",
+      "value": "Marion",
+      "required": false
+    },
+    "STICKER_AUTHOR_NAME": {
+      "description": "Sticker author name",
+      "value": "X",
+      "required": false
+    },
+    "HEROKU_API_KEY": {
+      "description": "Enter heroku API key here",
+      "value": "",
+      "required": false
+    },
+    "HEROKU_APP_NAME": {
+      "description": "Enter exactly the same app name you've entered above.",
+      "value": "",
+      "required": false
+    },
+    "BOT_PREFIX": {
+      "description": "Enter your desired prefix here",
+      "value": ".",
+      "required": true
+    },
+    "MODE": {
+      "description": "Set 'private' to enable private mode, 'public' to enable public mode, 'group' to enable only group and 'pm' to enable only private chats",
+      "value": "public",
+      "required": false
+    },
+    "ANTIDELETE": {
+      "description": "Set 'private' to send deleted messages to message yourself, 'chat' to current chat and 'off' to disable'",
+      "value": "private",
+      "required": false
+    },
+     "ANTI_EDIT": {
+      "description": "Set 'private' to send edited messages to message yourself, 'chat' to current chat and 'off' to disable'",
+      "value": "private",
+      "required": false
+    },
+    "ALWAYS_ONLINE": {
+      "description": "Set true to make the bot online 24/7 or set false to disable always online'",
+      "value": "true",
+      "required": true
+    },
+    "AUTO_STATUS_VIEW": {
+      "description": "Set true to enable and false to disable auto status view",
+      "value": "true",
+      "required": false
+    },
+    "AUTO_STATUS_REACT": {
+      "description": "Set true to enable and false to disable auto status react",
+      "value": "false",
+      "required": false
+    },
+    "STATUS_EMOJI": {
+      "description": "Set your desired status reaction emoji",
+      "value": "🧡",
+      "required": false
+    },
+    "CHATBOT": {
+      "description": "Set true to enable and false to disable auto reply chatbot",
+      "value": "false",
+      "required": false
+    },
+    "ANTI_CALL": {
+      "description": "Set true to enable and false to disable anti-call feature",
+      "value": "false",
+      "required": false
+    },
+    "WELCOME_MSG": {
+      "description": "Set true to enable and false to disable welcome messages",
+      "value": "false",
+      "required": false
+    },
+    "TIMEZONE": {
+      "description": "Enter your timezone here. Google or don't edit if you don't know!",
+      "value": "Africa/Nairobi",
+      "required": false
+    },
+    "SUDO": {
+      "description": " Type additional allowed users here. They'll be able to use all the functions of the bot without restrictions. Separate with comma incase of more than one number.",
+      "value": "254796087764,254754944672",
+      "required": false
+    },
+    "AUTO_READ": {
+      "description": "Set true to enable automatic reading of messages",
+      "value": "false",
+      "required": false
+    },
+    "MENU_STYLE": {
+      "description": "Menu style, options 1, 2, 3, 4 or 5",
+      "value": "2",
+      "required": false
+    }
+  },
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
