@@ -16,12 +16,12 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/maeion"><img title="Author" src="https://img.shields.io/badge/𝙹𝙰𝙲𝙺𝚂𝙼𝙾𝙷𝙰𝙰-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/KbRV18SJxUM6bJvnGiJszt"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254796087764"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/marion"><img title="Author" src="https://img.shields.io/badge/𝙹𝙰𝙲𝙺𝚂𝙼𝙾𝙷𝙰𝙰-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/KbRV18SJxUM6bJvnGiJszt"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254796087764"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
 ### 1. FORK THIS REPO
 
-<a href='[https://github.com/marion-jacks/marionx/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='(https://github.com/marion-jacks/marionx)' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
@@ -45,7 +45,7 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/caseyweb/NHEZHO-MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/marion-jacks/marionx"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
@@ -58,7 +58,7 @@
 <a href="https://wa.me/254796087764"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029Vb58ejm35fLoqYxEhn3r"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
-  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/caseyweb/NHEZHO-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="CASEYRHODES "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
+  <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/marion-jacks/marionx"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="𝙹𝙰𝙲𝙺𝚂𝙼𝙾𝙷𝙰"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
 </p>
 
 
