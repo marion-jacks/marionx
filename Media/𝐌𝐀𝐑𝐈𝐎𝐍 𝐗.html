@@ -1,1 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CYPHER-X BOT STATUS</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-image: url("https://i.ibb.co/bFWtkv0/1734465645315.jpg"); /* Set the background image */
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            font-family: 'Arial', 'Helvetica', sans-serif; /* Fallback fonts */
+        }
+        .status {
+            font-size: 4vw; /* Responsive font size */
+            font-weight: bold;
+            color: black; /* Text color */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            border-radius: 10px;
+            background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            margin: 10px;
+        }
+        .loading-spinner {
+            display: none;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 24px;
+            color: white;
+        }
 
+        .loading-spinner.active {
+            display: block;
+        }
+
+        .footer {
+            position: absolute;
+            bottom: 10px;
+            text-align: center;
+            font-size: 2vw; /* Increased font size */
+            color: white;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="loading-spinner" id="loadingSpinner">
+        <i class="fas fa-spinner fa-spin"></i> Loading...
+    </div>
+    <div class="status">𝐌𝐀𝐑𝐈𝐎𝐍 𝐗 UPTIME</div>
+    <div id="uptime" class="status"></div>
+    <div class="footer">Made with love by Tylor💘</div>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const spinner = document.getElementById("loadingSpinner");
+            const uptimeDiv = document.getElementById("uptime");
+
+            function updateUptime() {
+                fetch('/uptime')
+                    .then(response => response.json())
+                    .then(data => {
+                        uptimeDiv.textContent = data.uptime;
+                        spinner.classList.remove("active");
+                    })
+                    .catch(error => {
+                        console.error('Error fetching uptime:', error);
+                        spinner.classList.remove("active");
+                    });
+            }
+
+            // Initial fetch
+            spinner.classList.add("active");
+            updateUptime();
+
+            // Periodically fetch uptime every 3 seconds
+            setInterval(updateUptime, 3000);
+        });
+    </script>
+</body>
+  </html>
